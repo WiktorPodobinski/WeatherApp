@@ -1,7 +1,7 @@
-###WeatherApp
+### WeatherApp
 Simple console-based weather application that retrieves weather information for a specified city using the OpenWeatherMap API.
 
-##Instructions
+## Instructions
 
 Download the project and open it in any code editor (recommend InteliJ IDEA, but also tested on VS Code with Java plugins).
 Make sure you have JDK installed on your computer.
